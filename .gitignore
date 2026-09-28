@@ -1,0 +1,8 @@
+node_modules/
+dist/
+# Ignore environment files at the root and inside frontend/backend.
+.env
+.env.*
+!.env.example
+coverage/
+.DS_Store
